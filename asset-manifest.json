@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Traveller08/whatsapp-clone/static/css/main.a38e57b2.chunk.css",
-    "main.js": "/Traveller08/whatsapp-clone/static/js/main.7765e2d0.chunk.js",
-    "main.js.map": "/Traveller08/whatsapp-clone/static/js/main.7765e2d0.chunk.js.map",
-    "runtime-main.js": "/Traveller08/whatsapp-clone/static/js/runtime-main.66e48f65.js",
-    "runtime-main.js.map": "/Traveller08/whatsapp-clone/static/js/runtime-main.66e48f65.js.map",
-    "static/js/2.db1019be.chunk.js": "/Traveller08/whatsapp-clone/static/js/2.db1019be.chunk.js",
-    "static/js/2.db1019be.chunk.js.map": "/Traveller08/whatsapp-clone/static/js/2.db1019be.chunk.js.map",
-    "index.html": "/Traveller08/whatsapp-clone/index.html",
-    "static/css/main.a38e57b2.chunk.css.map": "/Traveller08/whatsapp-clone/static/css/main.a38e57b2.chunk.css.map",
-    "static/js/2.db1019be.chunk.js.LICENSE.txt": "/Traveller08/whatsapp-clone/static/js/2.db1019be.chunk.js.LICENSE.txt",
-    "static/media/WhatsApp.svg.fc98389a.png": "/Traveller08/whatsapp-clone/static/media/WhatsApp.svg.fc98389a.png",
-    "static/media/Chat.css": "/Traveller08/whatsapp-clone/static/media/wa1.bded4f44.png"
+    "main.css": "/whatsapp-clone/static/css/main.f3614ff7.chunk.css",
+    "main.js": "/whatsapp-clone/static/js/main.521efc70.chunk.js",
+    "main.js.map": "/whatsapp-clone/static/js/main.521efc70.chunk.js.map",
+    "runtime-main.js": "/whatsapp-clone/static/js/runtime-main.3053e89b.js",
+    "runtime-main.js.map": "/whatsapp-clone/static/js/runtime-main.3053e89b.js.map",
+    "static/js/2.abc7c2a3.chunk.js": "/whatsapp-clone/static/js/2.abc7c2a3.chunk.js",
+    "static/js/2.abc7c2a3.chunk.js.map": "/whatsapp-clone/static/js/2.abc7c2a3.chunk.js.map",
+    "index.html": "/whatsapp-clone/index.html",
+    "static/css/main.f3614ff7.chunk.css.map": "/whatsapp-clone/static/css/main.f3614ff7.chunk.css.map",
+    "static/js/2.abc7c2a3.chunk.js.LICENSE.txt": "/whatsapp-clone/static/js/2.abc7c2a3.chunk.js.LICENSE.txt",
+    "static/media/WhatsApp.svg.fc98389a.png": "/whatsapp-clone/static/media/WhatsApp.svg.fc98389a.png",
+    "static/media/Chat.css": "/whatsapp-clone/static/media/wa1.bded4f44.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.66e48f65.js",
-    "static/js/2.db1019be.chunk.js",
-    "static/css/main.a38e57b2.chunk.css",
-    "static/js/main.7765e2d0.chunk.js"
+    "static/js/runtime-main.3053e89b.js",
+    "static/js/2.abc7c2a3.chunk.js",
+    "static/css/main.f3614ff7.chunk.css",
+    "static/js/main.521efc70.chunk.js"
   ]
 }
