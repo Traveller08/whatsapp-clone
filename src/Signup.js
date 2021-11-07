@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './Sign.css'
 import CloseIcon from '@mui/icons-material/Close';
-import { useHistory } from 'react-router-dom/cjs/react-router-dom.min';
+import { useHistory } from 'react-router-dom';
 import {createUserWithEmailAndPassword,
         auth, 
         signInWithEmailAndPassword,

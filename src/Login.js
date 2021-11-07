@@ -2,7 +2,7 @@ import { Link } from '@mui/material';
 import React, { useState } from 'react'
 import './Login.css';
 import  {signInWithEmailAndPassword, auth} from './firebase';
-import { useHistory } from 'react-router-dom/cjs/react-router-dom.min';
+import { useHistory } from 'react-router-dom';
 function Login() {
     const [email, setemail] = useState('');
     const [password, setpassword] = useState('');

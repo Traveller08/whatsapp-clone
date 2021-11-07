@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css'
 import Sidebar from './Sidebar';
 import Err404 from './Err404';
 import { useState } from 'react';
@@ -14,9 +15,9 @@ function Homepage() {
     });
     if(showChat){
         return (
-            <>
+            <div className='app__body'>
             <Sidebar />
-            </>
+            </ div>
         );
     }
     return (
