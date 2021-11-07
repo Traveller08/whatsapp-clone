@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 import './Signup.css'
 import logo from './WhatsApp.svg.png'
-import { Link } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 import { NoEncryption } from '@mui/icons-material';
 import Signup from './Signup';
 import Login from './Login';
+
 function NoLoginHome() {
+    let history = useHistory();
      const [signUp, setsignUp] = useState(false);
      const [logIn, setlogIn] = useState(false);
      const signup =()=>{
@@ -24,8 +26,12 @@ function NoLoginHome() {
      }
     return (
         <>
-        {signUp ?<Signup/> : null}
-        {logIn ?<Login/> : null}
+        {signUp ?(<Signup/>,
+          history.push('/signup')
+        ) : null}
+        {logIn ?( <Login/>, 
+        history.push('/login')) 
+        : null}
         <div className='cntr'>
             <div className="signup-container">
                <img src={logo} className='logo' alt='logo'></img>
